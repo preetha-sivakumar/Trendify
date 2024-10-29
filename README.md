@@ -1,0 +1,2 @@
+# Trendify
+React Ecommerce Website
